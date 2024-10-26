@@ -1,0 +1,81 @@
+<class 'pandas.core.frame.DataFrame'>
+Index: 24451 entries, 0 to 24480
+Data columns (total 74 columns):
+ #   Column                                                                                  Non-Null Count  Dtype  
+---  ------                                                                                  --------------  -----  
+ 0   street_name                                                                             24450 non-null  object 
+ 1   city                                                                                    24451 non-null  object 
+ 2   price                                                                                   24451 non-null  float64
+ 3   bedroom_number                                                                          24100 non-null  float64
+ 4   price_per_unit                                                                          17833 non-null  float64
+ 5   living_space                                                                            17869 non-null  float64
+ 6   land_space                                                                              7467 non-null   float64
+ 7   land_space_unit                                                                         7467 non-null   object 
+ 8   property_type                                                                           24451 non-null  object 
+ 9   Borough                                                                                 24451 non-null  object 
+ 10  All employer firms, Reference year 2017                                                 24451 non-null  object 
+ 11  American Indian and Alaska Native alone, percent                                        24451 non-null  object 
+ 12  Asian alone, percent                                                                    24451 non-null  object 
+ 13  Bachelor's degree or higher, percent of persons age 25 years+, 2018-2022                24451 non-null  object 
+ 14  Black or African American alone, percent                                                24451 non-null  object 
+ 15  Building Permits, 2023                                                                  24451 non-null  object 
+ 16  FIPS Code                                                                               24451 non-null  object 
+ 17  Female persons, percent                                                                 24451 non-null  object 
+ 18  Foreign born persons, percent, 2018-2022                                                24451 non-null  object 
+ 19  High school graduate or higher, percent of persons age 25 years+, 2018-2022             24451 non-null  object 
+ 20  Hispanic or Latino, percent                                                             24451 non-null  object 
+ 21  Households with a broadband Internet subscription, percent, 2018-2022                   24451 non-null  object 
+ 22  Households with a computer, percent, 2018-2022                                          24451 non-null  object 
+ 23  Households, 2018-2022                                                                   24451 non-null  object 
+ 24  Housing Units, July 1, 2023, (V2023)                                                    24451 non-null  object 
+ 25  In civilian labor force, female, percent of population age 16 years+, 2018-2022         24451 non-null  object 
+ 26  In civilian labor force, total, percent of population age 16 years+, 2018-2022          24451 non-null  object 
+ 27  Land area in square miles, 2010                                                         24451 non-null  float64
+ 28  Land area in square miles, 2020                                                         24451 non-null  float64
+ 29  Language other than English spoken at home, percent of persons age 5 years+, 2018-2022  24451 non-null  object 
+ 30  Living in same house 1 year ago, percent of persons age 1 year+, 2018-2022              24451 non-null  object 
+ 31  Mean travel time to work (minutes), workers age 16 years+, 2018-2022                    24451 non-null  float64
+ 32  Median gross rent, 2018-2022                                                            24451 non-null  object 
+ 33  Median household income (in 2022 dollars), 2018-2022                                    24451 non-null  object 
+ 34  Median selected monthly owner costs -with a mortgage, 2018-2022                         24451 non-null  object 
+ 35  Median selected monthly owner costs -without a mortgage, 2018-2022                      24451 non-null  object 
+ 36  Median value of owner-occupied housing units, 2018-2022                                 24451 non-null  object 
+ 37  Men-owned employer firms, Reference year 2017                                           24451 non-null  object 
+ 38  Minority-owned employer firms, Reference year 2017                                      24451 non-null  object 
+ 39  Native Hawaiian and Other Pacific Islander alone, percent                               24451 non-null  object 
+ 40  Nonminority-owned employer firms, Reference year 2017                                   24451 non-null  object 
+ 41  Nonveteran-owned employer firms, Reference year 2017                                    24451 non-null  object 
+ 42  Owner-occupied housing unit rate, 2018-2022                                             24451 non-null  object 
+ 43  Per capita income in past 12 months (in 2022 dollars), 2018-2022                        24451 non-null  object 
+ 44  Persons 65 years and over, percent                                                      24451 non-null  object 
+ 45  Persons in poverty, percent                                                             24451 non-null  object 
+ 46  Persons per household, 2018-2022                                                        24451 non-null  float64
+ 47  Persons under 18 years, percent                                                         24451 non-null  object 
+ 48  Persons under 5 years, percent                                                          24451 non-null  object 
+ 49  Persons without health insurance, under age 65 years, percent                           24451 non-null  object 
+ 50  Population estimates base, April 1, 2020, (V2023)                                       24451 non-null  object 
+ 51  Population estimates, July 1, 2023, (V2023)                                             24451 non-null  object 
+ 52  Population per square mile, 2010                                                        24451 non-null  object 
+ 53  Population per square mile, 2020                                                        24451 non-null  object 
+ 54  Population, Census, April 1, 2010                                                       24451 non-null  object 
+ 55  Population, Census, April 1, 2020                                                       24451 non-null  object 
+ 56  Population, percent change - April 1, 2020 (estimates base) to July 1, 2023, (V2023)    24451 non-null  object 
+ 57  Total accommodation and food services sales, 2017 ($1,000)                              24451 non-null  object 
+ 58  Total annual payroll, 2022 ($1,000)                                                     24451 non-null  object 
+ 59  Total employer establishments, 2022                                                     24451 non-null  object 
+ 60  Total employment, 2022                                                                  24451 non-null  object 
+ 61  Total employment, percent change, 2021-2022                                             24451 non-null  object 
+ 62  Total health care and social assistance receipts/revenue, 2017 ($1,000)                 24451 non-null  object 
+ 63  Total nonemployer establishments, 2021                                                  24451 non-null  object 
+ 64  Total retail sales per capita, 2017                                                     24451 non-null  object 
+ 65  Total retail sales, 2017 ($1,000)                                                       24451 non-null  object 
+ 66  Total transportation and warehousing receipts/revenue, 2017 ($1,000)                    24451 non-null  object 
+ 67  Two or More Races, percent                                                              24451 non-null  object 
+ 68  Veteran-owned employer firms, Reference year 2017                                       24451 non-null  object 
+ 69  Veterans, 2018-2022                                                                     24451 non-null  object 
+ 70  White alone, not Hispanic or Latino, percent                                            24451 non-null  object 
+ 71  White alone, percent                                                                    24451 non-null  object 
+ 72  With a disability, under age 65 years, percent, 2018-2022                               24451 non-null  object 
+ 73  Women-owned employer firms, Reference year 2017                                         24451 non-null  object 
+dtypes: float64(9), object(65)
+memory usage: 14.0+ MB
