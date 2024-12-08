@@ -6,7 +6,7 @@ I am trying to make a model that tries to predict how many people in the five bo
 
  Because im sourcing the data myself, im using both the Census bureau data and a database with all of the data appended into one central dataframe. This dataframe should show the complexity of the listings by borough, bedroom numbers and also monthly morgatage prices / income. 
 
- # ** Data Understanding and Analaysis: ** 
+ # ** Data Understanding and Analysis: ** 
 In the dataframe we have over 30,000 entries with about 10 columns with data. once it was one hot encoded we had over 18 columns with categorical data. So we're going to take this new version of the data and make a Logistic regression model, KNN model and a Decesion Tree model. 
 
 # ** Results: ** 
